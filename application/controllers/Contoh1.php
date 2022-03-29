@@ -7,6 +7,6 @@ class Contoh1 extends CI_Controller
         echo"Nama Saya Ridwan Saefuloh
             Saya tinggal di daerah Kedoya utara
             olahraga yang saya sukai adalah 
-            berenang";
+            bulutangkis";
     }
 }
